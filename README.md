@@ -29,10 +29,15 @@ Keywords: End mill, Cutter wear, Machine vision, 3D reconstruction, Machine lear
 
 
 Equipment list:
+
 1.STC-MBS322U3V
+
 2.TEC-M6065MP,TEC-M05110MP
+
 3.TXF-TD20B
+
 4.CM1-23L20E
+
 5.WTO 420125016-45
 
 
